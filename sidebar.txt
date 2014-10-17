@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nbe:home|Door43 (nbe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nbe|d43-nbe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nbe/archive/master.zip|d43-nbe.zip]]
+
+**Recent Changes**
+{{changes>ns = nbe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nbe|Ethnologue data]]
+
